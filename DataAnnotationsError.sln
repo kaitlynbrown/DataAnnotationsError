@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2010
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAnnotationsError", "DataAnnotationsError.csproj", "{EA8D95F8-74B4-4DA8-8867-09FC538C62AE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAnnotationsError.WPF", "DataAnnotationsError.WPF\DataAnnotationsError.WPF.csproj", "{EA8D95F8-74B4-4DA8-8867-09FC538C62AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAnnotationsError.Lib", "DataAnnotationsError.Lib\DataAnnotationsError.Lib.csproj", "{14FCE5C9-E083-412C-A2E2-0ED2F765ECF4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{EA8D95F8-74B4-4DA8-8867-09FC538C62AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA8D95F8-74B4-4DA8-8867-09FC538C62AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA8D95F8-74B4-4DA8-8867-09FC538C62AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14FCE5C9-E083-412C-A2E2-0ED2F765ECF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14FCE5C9-E083-412C-A2E2-0ED2F765ECF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14FCE5C9-E083-412C-A2E2-0ED2F765ECF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14FCE5C9-E083-412C-A2E2-0ED2F765ECF4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
